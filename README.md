@@ -12,3 +12,6 @@ Google Doc (parte 1):
   Google Doc (parte 2):
   
   https://docs.google.com/document/d/1lD8TjyL9dKi5QpR2GC-9XCQm-8HQnvAdCH0MQEvJnBo/edit?usp=sharing
+  
+  Google Doc (parte 3):
+  https://docs.google.com/document/d/1PtRvQUw5bGgBP6ENo-edVyvMZAIIgAecguG7U8FrJow/edit?usp=sharing
